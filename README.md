@@ -1,5 +1,9 @@
 # <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" width="30px"> freeCodeCamp - Certificate 4 - Warhammer Painting Service Landing Page
 
+Please open the following link to view the webpages in codesandbox.io:
+
+https://codesandbox.io/p/github/MCooper1210/fcc-certificate-4-landing-page
+
 This repository contains the index.html and styles.css for the fourth freeCodeCamp course certificate, a landing page. For this, I chose a landing page for a Warhammer miniature painting service.
 
 ## Description
